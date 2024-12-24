@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+.carousel-container {
+    max-width: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.carousel-inner img {
+    max-height: 80vh; 
+    margin: auto;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 50%;
+}
+
+
+.main{
+    position: relative;
+    font-size: 25px;
+    min-height: 100vh;
+    padding: 50px 0px;
+    background-image: url("images/Screenshot_20241126-175650.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.paragraph{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.products{
+    min-height: 50vh;
+}
+
+.products div img{
+    height: 100%;
+    width: 100%;
+   
+}
